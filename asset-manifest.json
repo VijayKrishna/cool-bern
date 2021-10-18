@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cool-bern/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/cool-bern/static/js/main.b12d3b18.chunk.js",
-    "main.js.map": "/cool-bern/static/js/main.b12d3b18.chunk.js.map",
+    "main.js": "/cool-bern/static/js/main.f99390f6.chunk.js",
+    "main.js.map": "/cool-bern/static/js/main.f99390f6.chunk.js.map",
     "runtime-main.js": "/cool-bern/static/js/runtime-main.ac06539f.js",
     "runtime-main.js.map": "/cool-bern/static/js/runtime-main.ac06539f.js.map",
     "static/js/2.d2938311.chunk.js": "/cool-bern/static/js/2.d2938311.chunk.js",
@@ -196,6 +196,6 @@
     "static/js/runtime-main.ac06539f.js",
     "static/js/2.d2938311.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b12d3b18.chunk.js"
+    "static/js/main.f99390f6.chunk.js"
   ]
 }
