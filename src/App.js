@@ -14,7 +14,7 @@ class App extends Component {
   }
   
   componentWillMount() {
-    listOfImages = this.importAll(require.context('./berns/', false, /\.(png|jpe?g|svg|JPG|webp)$/));
+    listOfImages = this.importAll(require.context('./berns/', false, /\.(png|jpe?g|svg|JPG|webp|gif)$/));
   }
 
   render() {
