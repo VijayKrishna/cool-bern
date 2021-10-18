@@ -29,7 +29,7 @@ class App extends Component {
             return (
               <div>
                 <h2>{number}</h2>
-                <img key={index} width="50%" src={image.default} alt={alt} ></img>
+                <img key={index} width="100%" style= {{ maxWidth: 700 }} src={image.default} alt={alt} ></img>
               </div>
             )
           })
